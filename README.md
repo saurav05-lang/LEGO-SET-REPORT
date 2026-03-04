@@ -16,6 +16,11 @@ The dashboard provides actionable insights into sales trends, regional performan
  
  Support strategic planning to achieve a minimum 15% profit margin
 
+
+
+
+ 
+
  
  
 
