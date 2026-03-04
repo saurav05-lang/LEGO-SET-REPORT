@@ -54,4 +54,4 @@ Increase overall sales and profitability
 
 📷 Preview
 
-()
+(https://github.com/saurav05-lang/LEGO-SET-REPORT/blob/main/Snapshot%20of%20lego%20set%20store%20dashboard.png)
