@@ -6,37 +6,32 @@ This project presents an interactive Power BI dashboard built using LEGO store s
 
 The dashboard provides actionable insights into sales trends, regional performance, product categories, and overall business growth.
 
+
 🎯 Business Objective
 
- Analyze overall sales and profit performance
+  Analyze overall sales and profit performance
  
- Identify low-performing regions and product segments
+  Identify low-performing regions and product segments
  
- Monitor key KPIs to improve business decision-making
+  Monitor key KPIs to improve business decision-making
  
- Support strategic planning to achieve a minimum 15% profit margin
+  Support strategic planning to achieve a minimum 15% profit margin
+  
 
-
-
-
- 
-
- 
- 
 
 📊 Key Insights & Features
 
- ✅ Total Sales, Total Profit & Profit Margin KPIs
+  ✅ Total Sales, Total Profit & Profit Margin KPIs
  
- ✅ Regional performance analysis
+  ✅ Regional performance analysis
  
- ✅ Product category and set-wise revenue breakdown
+  ✅ Product category and set-wise revenue breakdown
  
- ✅ Time-based sales trend analysis
+  ✅ Time-based sales trend analysis
  
- ✅ Identification of high and low profitability areas
+  ✅ Identification of high and low profitability areas
  
- ✅ Interactive filters and slicers for dynamic exploration
+  ✅ Interactive filters and slicers for dynamic exploration
 
  
  
@@ -50,6 +45,7 @@ The dashboard provides actionable insights into sales trends, regional performan
  ✅DAX for calculated measures and KPIs
  
  ✅Data Modeling for relationship building
+ 
 
 
  
