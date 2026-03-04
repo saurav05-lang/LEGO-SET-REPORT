@@ -15,6 +15,8 @@ The dashboard provides actionable insights into sales trends, regional performan
  Monitor key KPIs to improve business decision-making
  
  Support strategic planning to achieve a minimum 15% profit margin
+
+ 
  
 
 📊 Key Insights & Features
@@ -30,6 +32,8 @@ The dashboard provides actionable insights into sales trends, regional performan
  ✅ Identification of high and low profitability areas
  
  ✅ Interactive filters and slicers for dynamic exploration
+
+ 
  
 
 🛠 Tools & Technologies Used
@@ -41,6 +45,9 @@ The dashboard provides actionable insights into sales trends, regional performan
  ✅DAX for calculated measures and KPIs
  
  ✅Data Modeling for relationship building
+
+
+ 
 
 📈 Dashboard Impact
 
@@ -54,6 +61,9 @@ This dashboard helps business stakeholders:
  ✅Optimize product strategies
  
  ✅Increase overall sales and profitability
+
+
+ 
 
 📷 Preview
 
